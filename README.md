@@ -1,3 +1,3 @@
 # QR-Code-Generator
 
-API: https://goqr.me/api/
+API usada: https://goqr.me/api/
